@@ -1,2 +1,2 @@
 # OstraLinux
-Ostra Linux Builds.
+Ostra Linux Build.
