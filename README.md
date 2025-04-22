@@ -19,11 +19,15 @@
 ### ⚠️ **Current Status:** **Not Working!** *(Under heavy development)*  
 
 #### 🔧 ***Issues:***  
-- KDE Plasma 6 not working.
+- No issues in this build.
 
 ---
 
 ### 📥 **Download & Testing:**  
+*(Links will be added in future releases.)*  
+
+
+### 📥 **Screenshots:**  
 *(Links will be added in future releases.)*  
 
 ---
