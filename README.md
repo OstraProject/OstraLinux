@@ -27,8 +27,8 @@
 *(Links will be added in future releases.)*  
 
 
-### 📥 **Screenshots:**  
-*(Links will be added in future releases.)*  
+### 📸 **Screenshots:**  
+![Desktop](/readme-files/OstraDesktop.png)
 
 ---
 
