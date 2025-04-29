@@ -24,7 +24,7 @@
 ---
 
 ### 📥 **Download & Testing:**  
-*(Links will be added in future releases.)*  
+https://github.com/OstraProject/OstraLinux/releases/download/pre-alpha/OstraProject-preAlpha0.6-desktop-amd64.iso.torrent
 
 
 ### 📸 **Screenshots:**  
